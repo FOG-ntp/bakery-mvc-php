@@ -372,7 +372,7 @@
     .cart_total {
     width: 12.43557%;
     text-align: center;
-    color: #1f48ff;
+    color: #9e563c;
     }
     .cart_delete {
     display: flex;
@@ -439,7 +439,7 @@
     align-self: center!important;
     }
     .stardust-button--primary {
-    background-color: #2d5aee;
+    background-color: #9e563c;
     border-color: #2035f3;
     color: #fff;
     }
@@ -534,7 +534,7 @@
     background-color: #4c40ff
     }
     #progressbar .active {
-    color: #000B58
+    color: #9e563c
     }
     #form #progressbar{
     text-align: center;
@@ -588,7 +588,7 @@
     
     #progressbar li.active:before,
     #progressbar li.active:after {
-    background: #000B58
+    background: #9e563c
     }
     
     .progress {
@@ -596,5 +596,5 @@
     }
     
     .progress-bar {
-    background-color: #000B58
+    background-color: #9e563c
     }

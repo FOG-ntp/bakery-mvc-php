@@ -61,7 +61,7 @@ font-size: 18px;
 border-radius: 50px;
 text-align: center;
 color: white;
-background-color: #3C467B;
+background-color: #9e563c;
 transition: 0.3s;
 opacity: 0.7;
 }
@@ -80,7 +80,7 @@ border-radius: 50px;
 text-align: center;
 color: white;
 opacity: 0.9;
-background-color: #3C467B;
+background-color: #9e563c;
     
 }
   .giamgiahot{
@@ -143,7 +143,7 @@ background-color: #3C467B;
   position: relative;
   display: block;
   text-align: center;
-  background-color: #3C467B;
+  background-color: #9e563c;
   color: white;
   transition: 0.6s;
   flex: start;
@@ -168,7 +168,7 @@ background-color: #3C467B;
 .gia_sanpham{
     font-family: inherit;
     font-size: 15px;
-    color: #3C467B;
+    color: #9e563c;
 }
 .lienhe{
   width: 100px;
@@ -205,11 +205,11 @@ background-color: #3C467B;
   /* align-items: center; */
   left: 30%;
   background-color:white  ;
-  color: #3C467B;
+  color: #9e563c;
 }
 .btn-primary:hover{
   background-color: #F3F2F2;
-  color: #3C467B;
+  color: #9e563c;
 }
 .day_tintuc{
 

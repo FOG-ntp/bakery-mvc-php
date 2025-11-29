@@ -49,7 +49,7 @@
 .woodmart-products-tabs .products-tabs-title li{ margin-bottom:0; }
 
 #wle-home-slider .cs-slides a{
-    background: #000B58;
+    background: #9e563c;
     color: #fff;
     padding: 15px 20px;
     text-transform: uppercase;
@@ -67,7 +67,7 @@
 }
 #halink_vn_homepage_content .woodmart-title-container.title:before,
 #halink_vn_homepage_content .woodmart-title-container.title:after{
-	background:#000B58;
+	background:#9e563c;
 	flex-grow: 1;
 	content:"";
 	height:1px;
@@ -98,7 +98,7 @@
 	margin-bottom: 10px;
 }
 .woocommerce span.onsale{
-    background-color: #000B58;
+    background-color: #9e563c;
 }
 
 #halink_vn_homepage_content .widget{ margin:0; padding-bottom:0; }
@@ -129,7 +129,7 @@
 }.woocommerce nav.woocommerce-pagination .next.page-numbers{
 	font-size:0;
 }.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current{
-	background: #000B58;
+	background: #9e563c;
 	color:#fff;
 }.woocommerce nav.woocommerce-pagination{
 	margin-top:30px;
@@ -158,7 +158,7 @@
     line-height: 34px;
     transition: all .2s ease;
 }.nav-links .page-numbers.current{
-	background-color: #000B58;
+	background-color: #9e563c;
 	color: #FFF;
     font-weight: 600;
 }

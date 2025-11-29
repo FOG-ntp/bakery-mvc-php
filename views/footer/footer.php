@@ -11,11 +11,11 @@
 	                    	<img src="public/images/logo.png" alt="TD SHOP" style="max-width: 245px;"> 
 	                	</a>
 	              </div>
-	              <p>J-P Fashion là thương hiệu thời trang nữ phong cách đa dạng với hàng nghìn mẫu thiết kế. Nơi các xu hướng thời trang trên thế giới được cập nhật mỗi ngày.</p>
+	              <p>SugarTown là điểm đến của những tín đồ hảo ngọt, nơi các xu hướng làm bánh tinh tế được cập nhật và sáng tạo mỗi ngày. Với không gian ấm cúng, hiện đại và dịch vụ tận tâm, chu đáo, SugarTown cam kết mang lại trải nghiệm ẩm thực ngọt ngào và hoàn hảo nhất cho bạn.</p>
 	              	<div style="line-height: 2;">
 		                <i class="fa fa-location-arrow" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Ngũ Hành Sơn, Đà Nẵng<br>
 		                <i class="fa fa-mobile" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Điện thoại: 0123.456.789<br>
-		                <i class="fa fa-envelope-o" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Email: JPfashion@gmail.com
+		                <i class="fa fa-envelope-o" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Email: sugartown@gmail.com
 	            	</div>
 	            </div>
 	        </section>
@@ -24,11 +24,11 @@
 				<h5 class="widget-title">Sản phẩm</h5>
 				<div class="menu-footer-san-pham-container">
 					<ul id="menu-footer-san-pham" class="menu">
-						<li id="menu-item-254" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Áo </a></li>
-						<li id="menu-item-255" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Quần</a></li>
-						<li id="menu-item-256" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Mũ</a></li>
-						<li id="menu-item-257" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Thắt lưng</a></li>
-						<li id="menu-item-258" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Giày</a></li>
+						<li id="menu-item-254" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Nướng</a></li>
+						<li id="menu-item-255" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Lạnh</a></li>
+						<li id="menu-item-256" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Cookies</a></li>
+						<li id="menu-item-257" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Cấp Đông</a></li>
+						<li id="menu-item-258" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Kem</a></li>
 						
 					</ul>
 				</div>
@@ -50,11 +50,11 @@
 				<h5 class="widget-title">Tin tức</h5>
 				<div class="menu-footer-san-pham-container">
 					<ul id="menu-footer-san-pham-1" class="menu">
-						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Áo </a></li>
-						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Quần</a></li>
-						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Mũ</a></li>
-						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="#">Thắt lưng</a></li>
-						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Giày</a></li>
+						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Nướng </a></li>
+						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Lạnh</a></li>
+						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Cookies</a></li>
+						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="#">Bánh Cấp Đông</a></li>
+						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="#">Bánh Kem</a></li>
 						
 					</ul>
 				</div>
@@ -65,7 +65,7 @@
     	<div class="container">
         	<div class="min-footer">
           		<div class="col-left reset-mb-12"> 
-              		<small>Copyright © 2025 J-P Fashion. All rights reserved.</small>
+              		<small>Copyright © 2025 SugarTown Bakery. All rights reserved.</small>
       				</div>
         	</div>
     	</div>

@@ -8,6 +8,7 @@
                     <div class="item item_slidequangcao"><img src="public/images/quangcao2.jpg" alt=""></div>
                     <div class="item item_slidequangcao"><img src="public/images/quangcao3.jpg" alt=""></div>
                     <div class="item item_slidequangcao"><img src="public/images/quangcao4.jpg" alt=""></div>
+                    <div class="item item_slidequangcao"><img src="public/images/quangcao5.jpg" alt=""></div>
                 </div>
             </div>
         </div>

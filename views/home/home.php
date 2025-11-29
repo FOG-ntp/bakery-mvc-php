@@ -13,6 +13,7 @@
 							    <div class="item item_slidequangcao"><img src="public/images/quangcao2.jpg"  alt=""></div>
 									<div class="item item_slidequangcao"><img src="public/images/quangcao3.jpg" alt=""></div>
                     <div class="item item_slidequangcao"><img src="public/images/quangcao4.jpg" alt=""></div>
+										<div class="item item_slidequangcao"><img src="public/images/quangcao5.jpg" alt=""></div>
 							</div>
 			            </div>
 		       	</div>
@@ -284,13 +285,13 @@
     				<div class="owl-carousel owl-carousel-tintuc owl-theme">
 			    		<div class="item item_cardtintuc">
 			    			<div class="card card_tintuc" >
-			  					<img src="public/images/tintuc1.jpg" class="card-img-top img_tintuc" alt="...">
+			  					<img src="public/images/tintuc1.png" class="card-img-top img_tintuc" alt="...">
 			  					<div class="day_tintuc">
-			  						<span>20 <br>T11</span>
+			  						<span>21 <br>T11</span>
 			  						
 			  					</div>
 		  						<div class="card-body">
-								    <h5 class="card-title title_card">Các loại vải trong thời trang</h5>
+								    <h5 class="card-title title_card">SET UP TIỆC TRÀ TRỌN GÓI</h5>
 								    <p class="card-text">
 								    	Đăng bởi : 
 								    	<span>
@@ -302,7 +303,7 @@
 								    	Bảo Cầm
 								    </p>
 								    <p class="card-text">
-								    	Thời trang và chất liệu luôn luôn song hành với nhau. Việc hiểu rõ về các loại vải chính là chìa khóa để chọn trang phục ưng ý, vừa thoải mái lại hợp mốt. ...
+								    	Trong những sự kiện chuyên nghiệp hay buổi gặp gỡ thân mật, một bàn tiệc trà được chuẩn bị chỉn chu luôn tạo nên điểm nhấn tinh tế và mang lại  ...
 								    </p>
 								    <a href="#" class="btn btn-primary">Chi Tiết</a>
 							  </div>
@@ -312,11 +313,11 @@
 			    			<div class="card card_tintuc" >
 			  					<img src="public/images/tintuc2.png" class="card-img-top img_tintuc" alt="...">
 			  					<div class="day_tintuc">
-			  						<span>20 <br> T11</span>
+			  						<span>13 <br> T11</span>
 			  						
 			  					</div>
 		  						<div class="card-body">
-								    <h5 class="card-title title_card">Nguồn gốc và ứng dụng của vải tweed</h5>
+								    <h5 class="card-title title_card">BÁNH KEM TRI ÂN NGÀY NHÀ GIÁO VIỆT NAM</h5>
 								    <p class="card-text">
 								    	Đăng bởi :
 								    	<span>
@@ -328,7 +329,7 @@
 								    	Bảo Cầm
 								    </p>
 								    <p class="card-text">
-								    	Vải Tweed là một chất liệu thời trang cổ điển đã xuất hiện và duy trì sức hút qua nhiều thế kỷ. Điều gì khiến vải Tweed trở thành biểu tượng của sự sang trọng?...
+								    	Ngày Nhà Giáo Việt Nam 20/11 - một trong những dịp đặc biệt và ý nghĩa nhất trong năm  - ngày hướng về những người thầy, người cô,...
 								    </p>
 								    <a href="#" class="btn btn-primary">Chi Tiết</a>
 							  </div>
@@ -338,11 +339,11 @@
 			    			<div class="card card_tintuc" >
 			  					<img src="public/images/tintuc3.png" class="card-img-top img_tintuc" alt="...">
 			  					<div class="day_tintuc">
-			  						<span>20 <br> T11</span>
+			  						<span>11 <br> T10</span>
 			  						
 			  					</div>
 		  						<div class="card-body">
-								    <h5 class="card-title title_card">Vải Bamboo là gì và những đặc tính vượt trội</h5>
+								    <h5 class="card-title title_card">CHÚC MỪNG NGÀY PHỤ NỮ VIỆT NAM</h5>
 								    <p class="card-text">
 								    	Đăng bởi :
 								    	<span>
@@ -354,7 +355,7 @@
 								    	Bảo Cầm
 								    </p>
 								    <p class="card-text">
-								    	Vải bamboo đã xuất hiện từ lâu và ngày càng được ưa chuộng nhờ các đặc tính nổi bật như có độ bền cao, khá thông thoáng và thân thiện với môi trường. ...
+								    	Tháng Mười về, mang theo hương hoa thơm ngát và những lời chúc tốt lành gửi đến một nửa thế giới – những người phụ nữ Việt Nam dịu dàng ...
 								    </p>
 								    <a href="#" class="btn btn-primary">Chi Tiết</a>
 							  </div>
@@ -368,10 +369,8 @@
 		<div class="logo_cuoitrangchu">
 			<hr >
 			<div class="owl-carousel owl-carousel-logo owl-theme">
-			    <div class="item item_logo"><img src="admin/upload/canifa-logo.jpg"></a></div>
-			    <div class="item item_logo"><img src="admin/upload/yody-logo.jpg"></a></div>
-			    <div class="item item_logo"><img src="admin/upload/uniqlo-logo.jpg"></a></div>
-			    <div class="item item_logo"><img src="admin/upload/coolmate-logo.jpg"></a></div>
+			    <div class="item item_logo"><img src="admin/upload/logo.png"></a></div>
+			    
 			</div>
 		</div>
 	</div>

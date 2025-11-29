@@ -22,7 +22,7 @@
 
 }
 .color_menu{
-    background-color: #000B58;
+    background-color: #9e563c;
     color: white;
 }
 
@@ -39,7 +39,7 @@
  }
 /* thiết lập style cho class active */
 .pagination a.active {
-    background-color: #000B58;
+    background-color: #9e563c;
     color: white;
     text-align: center;
     border-radius: 40%;
@@ -75,19 +75,19 @@
         width: 90%;
 }
 .form-add-ao input:hover{
-    border-color: #000B58;
+    border-color: #9e563c;
 }
 .form-add-ao button{
  display: flex;
   justify-content: center;
-background-color: #000B58;
+background-color: #9e563c;
 color: white;
 border-radius: 7px;
 margin: 3%;
 }
 .form-add-ao button:hover{
 
-background-color:#000B58;
+background-color:#9e563c;
 color: white;
 
 }
@@ -126,8 +126,8 @@ color: white;
     border-radius: 5px;
 }
 .price_filter .ui-slider-handle .ui-state-default .ui-corner-all {
-    background: #000B58 none repeat scroll 0 0;
-    border: 0px solid #000B58;
+    background: #9e563c none repeat scroll 0 0;
+    border: 0px solid #9e563c;
     border-radius:50%;
     height: 12px;
     width: 12px;
@@ -137,7 +137,7 @@ color: white;
 }
 .price_filter .ui-slider-range 
 {
-    background: #000B58 none repeat scroll 0 0;
+    background: #9e563c none repeat scroll 0 0;
 }
 
 .price_slider_amount > input[type="text"] {

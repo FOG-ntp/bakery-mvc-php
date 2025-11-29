@@ -127,7 +127,7 @@
     width: 100%;
     padding: 1rem;
     margin: .5rem 0;
-    background-color: #000B58;
+    background-color: #9e563c;
     color: #FFF;
     font-weight: 600;
     text-align: center;
@@ -136,7 +136,8 @@
 }
 
 .login__button:hover{
-   background-color: #003161;
+   background-color: #9e563c9e
+;
    color: #fff;
 }
 
@@ -338,11 +339,11 @@ width: 12.70417%;
 text-align: center;
 }
 .orders_btn{
-    background-color: #1f48ff;
+    background-color: #9e563c;
     color: white;
 
 }
 .orders_btn:hover{
-    background-color: #3C467B;
+    background-color: #9e563c;
     color: white;
 }

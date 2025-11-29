@@ -118,7 +118,7 @@ Session::checkSession();
                                 ?>
                                 <tr>
                                     <td><?php echo $i; ?></td>
-                                    <td><img  src="upload/<?php echo $res_top_pro['Picture']; ?>" style="width: 50px;height:30px"></td>
+                                    <td><img  src="upload/<?php echo $res_top_pro['Picture']; ?>" style="width: 38px;height:30px"></td>
                                     <td><?php echo $res_top_pro['ProductName']; ?></td>
                                     <td><?php echo $res_top_pro['quantity']; ?></td>
                                     <td><?php echo $res_top_pro['product_count']; ?></td>
@@ -179,7 +179,7 @@ Session::checkSession();
                                         <?php if($result['Status']=="0"){?>
                                             <span class="order-status order-confirm">Chưa xác nhận</span>                                        
                                         <?php }elseif($result['Status']=="1"){ ?>
-                                            <span class="order-status order-ready">Đang vận chuyển</span>
+                                            <span class="order-status order-ready">Đang chuẩn bị</span>
                                         <?php }elseif($result['Status']=="2"){ ?>
                                             <span class="order-status order-shipped">Đang giao</span>
                                         <?php }?>

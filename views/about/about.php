@@ -23,10 +23,10 @@
 				<div class="col-lg-6">
 					<div class="about-text">
 						<div class="row">
-						<h4>Cửa hàng thời trang J-P Fashion</h4>
+						<h4>Hệ thống của hàng Bakery SugarTown</h4>
 						<ol>
-						<li>J-P Fashion là thương hiệu thời trang nữ phong cách đa dạng với hàng nghìn mẫu thiết kế. Nơi các xu hướng thời trang trên thế giới được cập nhật mỗi ngày.</li>
-						<li>Với không gian mua sắm sang trọng, hiện đại, đội ngũ nhân viên tận tình, chu đáo, cùng với đó là dịch vụ chăm sóc khách hàng vô cùng hoàn hảo, J-P Fashion hy vọng tất cả khách hàng sẽ có những giây phút shopping thật thoải mái.</li>
+						<li>SugarTown là điểm đến của những tín đồ hảo ngọt, nơi các xu hướng làm bánh tinh tế được cập nhật và sáng tạo mỗi ngày. Với không gian ấm cúng, hiện đại và dịch vụ tận tâm, chu đáo, SugarTown cam kết mang lại trải nghiệm ẩm thực ngọt ngào và hoàn hảo nhất cho bạn.</li>
+						<li>Với không gian cửa hàng ấm cúng, ngọt ngào và hiện đại, đội ngũ nhân viên tận tình, chu đáo, cùng với đó là dịch vụ tư vấn và chăm sóc khách hàng vô cùng hoàn hảo (đặt bánh theo yêu cầu, giao hàng nhanh chóng), SugarTown hy vọng tất cả khách hàng sẽ có những giây phút thưởng thức ẩm thực thật thoải mái và trọn vẹn niềm vui.</li>
 						</ol>
 						</div>
 						<div class="row" style="margin-top: 5px">

@@ -13,6 +13,7 @@
 							    <div class="item item_slidequangcao"><img src="public/images/quangcao2.jpg"  alt=""></div>
 									<div class="item item_slidequangcao"><img src="public/images/quangcao3.jpg" alt=""></div>
                     <div class="item item_slidequangcao"><img src="public/images/quangcao4.jpg" alt=""></div>
+										<div class="item item_slidequangcao"><img src="public/images/quangcao5.jpg" alt=""></div>
 							</div>
 			            </div>
 			       	</div>
@@ -29,7 +30,7 @@
 						<span class="text_black_indam"><h4>LỌC THEO GIÁ</h4></span>
 					</div>
 					<div class="col-sm-6 col-lg-6">
-						<span>Trang chủ / Sản phẩm/ Thời trang Mũ</span>
+						<span>Trang chủ / Sản phẩm/ Bánh Cookies</span>
 					</div>
 					<div class="col-sm-3 col-lg-3">
 						<!-- <form class="#" method="get">
@@ -130,7 +131,7 @@
 						<div class="pagination">
 					       <?php if ($data_tong >= 9) {
 								for ($i = 1; $i <= $data_tong / 9; $i++) { ?>
-									<a class="active chinh_menu" style="background-color: #000B58;border-radius: 25%;" href="?act=list_hat&trangmu=<?= $i ?>"><?= $i ?></a>
+									<a class="active chinh_menu" style="background-color: #9e563c;border-radius: 25%;" href="?act=list_hat&trangmu=<?= $i ?>"><?= $i ?></a>
 							<?php }
 							}
 							?>

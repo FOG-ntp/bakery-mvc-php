@@ -48,8 +48,8 @@ td {
 }
 
 .list img {
-    width: 100px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
 }
 
 .sidebar {
@@ -628,7 +628,7 @@ label.col-sm-auto.col-form-label {
 }
 
 .stardust-button--primary {
-    background-color: #2d5aee;
+    background-color: #9e563c;
     border-color: #2035f3;
     color: #fff;
 }

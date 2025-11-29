@@ -16,13 +16,13 @@
 			<div class="owl-carousel owl-carousel-tintuc1 owl-theme">
 	    		<div class="item item_cardtintuc">
 	    			<div class="card card_tintuc" >
-	  					<img src="public/images/tintuc1.jpg" class="card-img-top img_tintuc" alt="...">
+	  					<img src="public/images/tintuc1.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
 	  						<span>20<br> T11</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Các loại vải trong thời trang</h5>
+						    <h5 class="card-title title_card">SET UP TIỆC TRÀ TRỌN GÓI </h5>
 						    <p class="card-text">
 						    	Đăng bởi : 
 						    	<span>
@@ -34,7 +34,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Thời trang và chất liệu luôn luôn song hành với nhau. Việc hiểu rõ về các loại vải chính là chìa khóa để chọn trang phục ưng ý, vừa thoải mái lại hợp mốt. ...
+						    	Trong những sự kiện chuyên nghiệp hay buổi gặp gỡ thân mật, một bàn tiệc trà được chuẩn bị chỉn chu luôn tạo nên điểm nhấn tinh tế. ...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -44,11 +44,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc2.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>20 <br> T11</span>
+	  						<span>13 <br> T11</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Nguồn gốc và ứng dụng của vải tweed</h5>
+						    <h5 class="card-title title_card">BÁNH KEM TRI ÂN NGÀY NHÀ GIÁO</h5>
 						    <p class="card-text">
 						    	Đăng bởi :
 						    	<span>
@@ -60,7 +60,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Vải Tweed là một chất liệu thời trang cổ điển đã xuất hiện và duy trì sức hút qua nhiều thế kỷ. Điều gì khiến vải Tweed trở thành biểu tượng của sự mạnh mẽ và sang trọng?...
+						    	Ngày Nhà Giáo Việt Nam 20/11 - một trong những dịp đặc biệt và ý nghĩa nhất trong năm  - ngày hướng về những người thầy, người cô,...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -70,11 +70,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc3.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>20 <br> T11</span>
+	  						<span>11 <br> T10</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải Bamboo là gì và những đặc tính vượt trội</h5>
+						    <h5 class="card-title title_card">CHÚC MỪNG NGÀY PHỤ NỮ VIỆT NAM</h5>
 						    <p class="card-text">
 						    	Đăng bởi :
 						    	<span>
@@ -86,7 +86,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Vải bamboo đã xuất hiện từ lâu và ngày càng được ưa chuộng nhờ các đặc tính nổi bật như có độ bền cao, khá thông thoáng và thân thiện với môi trường. ...
+						    	Tháng Mười về, mang theo hương hoa thơm ngát và những lời chúc tốt lành gửi đến một nửa thế giới – những người phụ nữ Việt Nam dịu dàng. ...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -103,11 +103,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc4.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>18 <br> T11</span>
+	  						<span>09 <br> T08</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải textile là gì? Đặc điểm và ứng dụng phổ biến</h5>
+						    <h5 class="card-title title_card">BST BÁNH TRUNG THU </h5>
 						    <p class="card-text">
 						    	Đăng bởi : 
 						    	<span>
@@ -119,7 +119,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	T extile không chỉ là một khái niệm đơn thuần về vải dệt, mà còn là một ngành công nghiệp đa dạng với nhiều ứng dụng...
+						    	Trung Thu về, mang theo ánh trăng vàng ấm áp, tiếng trống lân rộn rã và hương thơm ngọt ngào của những chiếc bánh nướng, bánh dẻo...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -129,11 +129,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc5.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>18 <br> T11</span>
+	  						<span>27 <br> T05</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải satin là gì? Tất cả thông tin cần biết</h5>
+						    <h5 class="card-title title_card">BST BÁNH KEM CHÚC MỪNG QUỐC TẾ</h5>
 						    <p class="card-text">
 						    	Đăng bởi :
 						    	<span>
@@ -145,7 +145,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Vải Satin có nhiều ưu điểm vượt trội hơn so với những loại vải thông thường khác. Vậy nên loại vải này được sử dụng nhiều....
+						    	Ngày Quốc tế Thiếu nhi 1/6 – dịp đặc biệt trong năm để cha mẹ dành tình yêu thương cho những thiên thần nhỏ. Ngoài những món quà, lời chúc, thì một chiếc bánh kem xinh xắn, ....
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -155,11 +155,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc7.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>18 <br> T11</span>
+	  						<span>05 <br> T05</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải canvas là gì? Ưu nhược điểm, phân loại</h5>
+						    <h5 class="card-title title_card">BAKERY SETUP TIỆC TRÀ SANG TRỌNG</h5>
 						    <p class="card-text">
 						    	Đăng bởi :
 						    	<span>
@@ -171,7 +171,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	N ếu bạn yêu thích những chiếc túi từ vải canvas hay còn gọi là túi tote- món phụ kiện thời trang được săn đón hiện nay. ...
+						    	BAKERY CUNG CẤP BÁNH CHO TRƯỜNG HỌC - QUÁN CAFE - SIÊU THỊ - KHÁCH SẠN...1. Giới Thiệu Dịch Vụ Cung Cấp BánhQúy Khách Hàng đang tìm kiếm nguồn cung cấp . ...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -187,11 +187,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc6.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>18 <br> T11</span>
+	  						<span>10 <br> T03</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải umi là gì? Ưu nhược điểm, phân loại</h5>
+						    <h5 class="card-title title_card">BAKERY SETUP & PHỤC VỤ TIỆC TRÀ CAO CẤP</h5>
 						    <p class="card-text">
 						    	Đăng bởi : 
 						    	<span>
@@ -203,7 +203,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Vải Umi được sử dụng phổ biến trong ngành may mặc hiện nay. Vậy loại vải này có những ưu và nhược điểm gì mà lại phổ biến như vậy?...
+						    	BAKERY SETUP & PHỤC VỤ TIỆC TRÀ CAO CẤP Bạn muốn tổ chức một buổi tiệc sang trọng và tinh tế để liên hoan công ty, khai trương cửa hàng, đón tiếp đối...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -213,11 +213,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc8.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>16 <br> T11</span>
+	  						<span>10 <br> T03</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải mè là gì? Ưu nhược điểm, phân loại & ứng dụng</h5>
+						    <h5 class="card-title title_card">ANH HÒA BAKERY SETUP & PHỤC VỤ TIỆC TRÀ CAO CẤP </h5>
 						    <p class="card-text">
 						    	Đăng bởi :
 						    	<span>
@@ -229,7 +229,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Trong các loại vải thun thì vải mè mang lại tính thẩm mỹ cao cho người sử dụng. Loại vải này được ứng dụng trong nhiều lĩnh vực khác nhau ...
+									BAKERY SETUP & PHỤC VỤ TIỆC TRÀ CAO CẤP Bạn muốn tổ chức một buổi tiệc sang trọng và tinh tế để liên hoan công ty, khai trương cửa hàng, đón tiếp đối...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>
@@ -239,11 +239,11 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc9.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>16 <br> T11</span>
+	  						<span>03 <br> T03</span>
 	  						
 	  					</div>
   						<div class="card-body">
-						    <h5 class="card-title title_card">Vải chiffon là gì? Tất cả thông tin cần biết</h5>
+						    <h5 class="card-title title_card">BÁNH KEM 8 - 3 ANH HÒA BAKERY</h5>
 						    <p class="card-text">
 						    	Đăng bởi :
 						    	<span>
@@ -255,7 +255,7 @@
 						    	Bảo Cầm
 						    </p>
 						    <p class="card-text">
-						    	Trong ngành may mặc có rất nhiều các loại vải khác nhau. Một trong số những loại vải được sử dụng nhiều nhất phải kể đến vải chiffon...
+						    	Ngày Quốc tế Phụ Nữ 8-3 - Ngày tôn vinh những người phụ nữ vĩ đại trên toàn Thế giới. Đây là ngày để phái nam thể hiện tình yêu, lòng biết ơn...
 						    </p>
 						    <a href="#" class="btn btn-primary">Chi Tiết</a>
 					  </div>

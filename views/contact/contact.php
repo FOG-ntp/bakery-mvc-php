@@ -23,7 +23,7 @@
 						<div class="infos-contact">
                 	<p><i class="fa fa-location-arrow" aria-hidden="true"></i> <span class="text">Ngũ Hành Sơn, Đà Nẵng</span></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i> <span class="text">0123.456.789</span></p>
-                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="text">JPfashion@gmail.com</span></p>
+                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="text">sugartown@gmail.com</span></p>
 					</div>
 					<form action="?act=lienhe&xuli=sent" method="post">
 						<p><label> Tên của bạn (bắt buộc)<br />

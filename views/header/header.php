@@ -21,26 +21,26 @@
         	<ul id="menu-mobile-categories" class="site-mobile-menu">
         		<li >
         			<a href="?act=list_shirt" class=" woodmart-nav-link">
-        			<span class="nav-link-text">Áo</span>
+        			<span class="nav-link-text">Bánh Nướng</span>
         		</a>
         		</li>
         		<li >
-        			<a href="?act=list_trousers" class=" woodmart-nav-link"><span class="nav-link-text">Quần</span>
+        			<a href="?act=list_trousers" class=" woodmart-nav-link"><span class="nav-link-text">Bánh Lạnh</span>
         			</a>
         		</li>
         		<li >
         			<a href="?act=list_hat" class=" woodmart-nav-link">
-	        			<span class="nav-link-text">Mũ</span>
+	        			<span class="nav-link-text">Bánh Cookies</span>
 	        		</a>
 	        	</li>
         		<li  >
         			<a href="?act=list_belt" class=" woodmart-nav-link">
-        				<span class="nav-link-text">Thắt lưng</span>
+        				<span class="nav-link-text">Bánh Cấp Đông</span>
         			</a>
         		</li>
         		<li >
         			<a href="?act=list_shoes" class=" woodmart-nav-link">
-        				<span class="nav-link-text">Giày</span>
+        				<span class="nav-link-text">Bánh Kem</span>
         			</a>
         		</li>
         	</ul>  
@@ -94,7 +94,7 @@
                                 <a href="tel:0123.456.789"><i class="fa fa-phone" aria-hidden="true"></i> 0123.456.789</a>
                             </li>
                             <li class="menu-item menu-item-type-custom menu-item-2185 item-level-0 menu-item-design-default item-event-hover">
-                                <a href="mailto:0123.456.789"><i class="fa fa-envelope-o" aria-hidden="true"></i> JPfashion@gmail.com</a>
+                                <a href="mailto:0123.456.789"><i class="fa fa-envelope-o" aria-hidden="true"></i> sugartown@gmail.com</a>
                             </li>
                             <li class="menu-item menu-item-type-custom menu-item-2185 item-level-0 menu-item-design-default item-event-hover">
                                 <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> Ngũ Hành Sơn, Đà Nẵng</a>
@@ -157,7 +157,7 @@
 					        <a href="" class="woodmart-logo woodmart-main-logo" rel="home"> 
 					            <img src="public/images/logo.png" alt="TD SHOP" style="max-width: 245px;"> 
 					        </a>
-                    		<h1 class="blog-info" style="display:none;">J-P Fashion</h1>
+                    		<h1 class="blog-info" style="display:none;">SugarTown Bakery</h1>
                 		</div>
 					</div>               
  				<div class="whb-space-element " style="width:10px;"></div>
@@ -309,22 +309,22 @@
 	                              <ul id="menu-categories" class="menu wd-cat-nav dropdowns-loaded">
 	                              	
 	                              	<li   class="menu-item item-level-0">
-	                              		<a href="?act=list_shirt&sp=1" class=" woodmart-nav-link">Áo</a>
+	                              		<a href="?act=list_shirt&sp=1" class=" woodmart-nav-link">Bánh Nướng</a>
 	                              	</li>
 	                              	<li  class="menu-item item-level-0">
-	                              		<a href="?act=list_trousers&sp=2" class="mega-col-3 woodmart-nav-link">Quần</a>
+	                              		<a href="?act=list_trousers&sp=2" class="mega-col-3 woodmart-nav-link">Bánh Lạnh</a>
 	                              	</li>
 
 	                              	<li class="menu-item item-level-0">
-	                              		<a href="?act=list_hat&sp=3" class="mega-col-2 woodmart-nav-link">Mũ</a>
+	                              		<a href="?act=list_hat&sp=3" class="mega-col-2 woodmart-nav-link">Bánh Cookies</a>
 	                              	</li>
 
 	                              	<li  class="menu-item item-level-0">
-	                              		<a href="?act=list_belt&sp=4" class=" woodmart-nav-link">Thắt lưng</a>
+	                              		<a href="?act=list_belt&sp=4" class=" woodmart-nav-link">Bánh Cấp Đông</a>
 	                              	</li>
 
 	                              	<li class="menu-item item-level-0">
-	                              		<a href="?act=list_shoes&sp=5" class=" woodmart-nav-link">Giày</a>
+	                              		<a href="?act=list_shoes&sp=5" class=" woodmart-nav-link">Bánh Kem</a>
 	                              	</li>
 
 								      
@@ -346,11 +346,11 @@
 						    <div class="sub-menu-dropdown color-scheme-dark">
 						      <div class="container">
 							        <ul class="sub-sub-menu sub-dep-0">
-							        	<li class="menu-item "><a href="?act=list_shirt&sp=1">Áo</a></li>
-							        	<li  class="menu-item"><a href="?act=list_trousers&sp=2" >Quần</a></li>
-							        	<li  class="menu-item"><a href="?act=list_hat&sp=3" >Mũ</a></li>
-							        	<li  class="menu-item"><a href="?act=list_belt&sp=4" >Thắt lưng</a></li>
-							        	<li  class="menu-item"><a href="?act=list_shoes&sp=5" >Giày</a></li>
+							        	<li class="menu-item "><a href="?act=list_shirt&sp=1">Bánh Nướng</a></li>
+							        	<li  class="menu-item"><a href="?act=list_trousers&sp=2" >Bánh Lạnh</a></li>
+							        	<li  class="menu-item"><a href="?act=list_hat&sp=3" >Bánh Cookies</a></li>
+							        	<li  class="menu-item"><a href="?act=list_belt&sp=4" >Bánh Cấp Đông</a></li>
+							        	<li  class="menu-item"><a href="?act=list_shoes&sp=5" >Bánh Kem</a></li>
 							        	
 							        </ul>
 						        </div>
@@ -367,11 +367,11 @@
 						    <div class="sub-menu-dropdown color-scheme-dark">
 						      <div class="container">
 							        <ul class="sub-sub-menu sub-dep-0">
-							        	<li class="menu-item "><a href="?act=list_shirt&sp=1">Áo</a></li>
-							        	<li  class="menu-item"><a href="?act=list_trousers&sp=2" >Quần</a></li>
-							        	<li  class="menu-item"><a href="?act=list_hat&sp=3" >Mũ</a></li>
-							        	<li  class="menu-item"><a href="?act=list_belt&sp=4" >Thắt Lưng</a></li>
-							        	<li  class="menu-item"><a href="?act=list_shoes&sp=5" >Giày</a></li>
+							        	<li class="menu-item "><a href="?act=list_shirt&sp=1">Bánh Nướng</a></li>
+							        	<li  class="menu-item"><a href="?act=list_trousers&sp=2" >Bánh Nướng</a></li>
+							        	<li  class="menu-item"><a href="?act=list_hat&sp=3" >Bánh Cookies</a></li>
+							        	<li  class="menu-item"><a href="?act=list_belt&sp=4" >Bánh Cấp Đông</a></li>
+							        	<li  class="menu-item"><a href="?act=list_shoes&sp=5" >Bánh Kem</a></li>
 							        	
 							        </ul>
 						        </div>
@@ -392,7 +392,7 @@
 			      <div class="whb-text-element reset-mb-10 ">
 			          <ul id="menu-menu-chinh-sach" class="inline-list inline-list-with-border main-nav-style">
 			          		<li id="menu-item-252" class="menu-item "><a href="?act=chinhsachmuahang">Chính sách mua hàng</a></li>
-							<li id="menu-item-251" class="menu-item "><a href="?act=doitra">Đổi trả</a></li>
+							
 						</ul>             
 				   </div>
 			    </div>
